@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    /*background-color: lightgrey;*/
     margin-top: 75px;
 }
 
@@ -26,7 +26,7 @@ body {
     color: #403e3e;
     font-family: sans-serif;
     padding-top: 70;
-    padding-left: 20 px;
+   
 }
         
 
