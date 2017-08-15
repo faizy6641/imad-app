@@ -1,2 +1,3 @@
 console.log('Loaded!');
-document.getElementById('change').innerHtml="I am a Functional Tester";
+var text=document.getElementById('change');
+text.innerHtml="I am a Functional Tester";
